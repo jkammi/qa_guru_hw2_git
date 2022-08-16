@@ -1,0 +1,1 @@
+This repository should show a git conflict.
